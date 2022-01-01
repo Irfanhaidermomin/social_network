@@ -1,4 +1,3 @@
-# social_network
 Social networking application with Flutter 
 <html>
 <body>
